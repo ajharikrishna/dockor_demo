@@ -5,6 +5,7 @@ from django.shortcuts import render
 
 
 def home_page_view(request):
+    name = 'hello'
     return HttpResponse('Hello WOrld')
 
 def home__page_view_sec(request):
