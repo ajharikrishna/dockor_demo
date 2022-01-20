@@ -9,4 +9,6 @@ def home_page_view(request):
     return HttpResponse('Hello WOrld')
 
 def home__page_view_sec(request):
-    return HttpResponse('Hello Harikrishna')
+    name= 'hello world'
+    name2 = 'my name is harikrishna'
+    return HttpResponse(name , '  ', name2)
