@@ -3,6 +3,10 @@ from django.shortcuts import render
 
 # Create your views here.
 
+name1 = 'before ammend'
+
+add = 'forgotten line'
+
 
 def home_page_view(request):
     name = 'hello'
