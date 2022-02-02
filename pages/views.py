@@ -22,3 +22,5 @@ master = 'this is only for master branch'
 
 
 test = 'this is for test branch only'
+
+test1 = 'test on views'
