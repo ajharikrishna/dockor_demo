@@ -16,3 +16,5 @@ def home__page_view_sec(request):
     name= 'hello world'
     name2 = 'my name is harikrishna'
     return HttpResponse(name , '  ', name2)
+
+master = 'this is only for master branch'
