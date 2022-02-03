@@ -26,3 +26,5 @@ test = 'this is for test branch only'
 test1 = 'test on views'
 
 stash = 'this is for stashing'
+
+test3 = 'pushed test 3 branch'
